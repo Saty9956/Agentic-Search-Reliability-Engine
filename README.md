@@ -128,7 +128,6 @@ Agentic-Search-Reliability-Engine/
 ├── example.env              # Environment template
 ├── Agent_Architecture.md    # Architecture explanation
 ├── README.md
-└── Readme.md
 ```
 
 ---

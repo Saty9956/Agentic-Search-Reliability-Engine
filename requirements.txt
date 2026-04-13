@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-experimental
+langchain-community
+faiss-cpu
+pypdf
+docx2txt
+pandas
+sentence-transformers
+python-dotenv
